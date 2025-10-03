@@ -13,7 +13,7 @@ const Navigation = () => {
 
 
     return (
-      <nav className="flex justify-left py-4 pl-16">
+      <nav className="w-full bg-black flex justify-left py-4 pl-16">
         <div className="bg-rose-800 rounded-full px-8 py-2 flex space-x-8 text-white font-light">
           <a href="/" className="hover:underline">Home</a>
           <a href="/software" className="hover:underline">Software Engineering</a>
