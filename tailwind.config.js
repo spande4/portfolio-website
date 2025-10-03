@@ -7,7 +7,11 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'inter': ['Inter', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        josefin: ['"Josefin Sans"', 'sans-serif'], // 👈 new font
+      },
+      colors: {
+        brand: "#9a4358",
       },
     },
   },

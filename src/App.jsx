@@ -5,12 +5,11 @@ import Contact from './components/Contact'
 
 function App() {
   return (
-    <div className="App">
-      <Navigation />
-      <Home />
-      <Contact />
-    </div>
-  )
+      <div className="bg-black text-white min-h-screen">
+          <Navigation />
+          <Home />
+        </div>
+      );
 }
 
 export default App
