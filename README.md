@@ -1,6 +1,8 @@
-# Personal Website (https://spande4.github.io/portfolio-website/)
+# Personal Website 
 
-## Tech Stack
+https://spande4.github.io/portfolio-website/
+
+### Tech Stack
 - React
 - Vite
 - JavaScript
